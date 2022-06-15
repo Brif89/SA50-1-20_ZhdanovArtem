@@ -1,0 +1,179 @@
+
+.background{
+  position: static;
+  background: white
+}
+
+.string1{
+  display: flex;
+}
+
+/* black */
+.black{
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #333333;
+  border-radius: 3px;
+}
+
+/* Gray */
+.gray{
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #4F4F4F;
+  border-radius: 3px;
+}
+
+/* Gray2*/
+.gray2{
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #828282;
+  border-radius: 3px;
+}
+
+/* Gray 3 */
+.gray3{
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #BDBDBD;
+  border-radius: 3px;
+}
+/* Gray 4 */
+.gray4{
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #E0E0E0;
+  border-radius: 3px;
+}
+/* White */
+.white{
+  width: 40px;
+  height: 40px;
+  display: flex;
+  margin: 20px 20px 20px;
+  background: #F2F2F2;
+  border-radius: 3px;
+}
+
+.string2{
+  display: flex;
+}
+
+
+/* Red */
+
+.red{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #EB5757;
+  border-radius: 3px;
+}
+
+/* Orange */
+.orange{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #F2994A;
+  border-radius: 3px;
+}
+
+/* Yellow*/
+.yellow{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #F2C94C;
+  border-radius: 3px;
+}
+
+/* Green*/
+.green{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #219653;
+  border-radius: 3px;
+}
+/* Light-green*/
+.light-green{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #27AE60;
+  border-radius: 3px;
+}
+/* Light-green2 */
+.light-green2{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #6FCF97;
+  border-radius: 3px;
+}
+
+
+.string3{
+  display: flex;
+}
+
+/*Blue*/
+.blue{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #2F80ED;
+  border-radius: 3px;
+}
+
+/*Light-blue*/
+.light-blue{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #2D9CDB;
+  border-radius: 3px;
+}
+
+/*Light-blue2*/
+.light-blue2{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #56CCF2;
+  border-radius: 3px;
+}
+/*Purple*/
+.purple{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;
+  background: #9B51E0;
+  border-radius: 3px;
+}
+/* Pink */
+.pink{
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  margin: 20px 20px 20px;;
+  background: #BB6BD9;
+  border-radius: 3px;
+}
