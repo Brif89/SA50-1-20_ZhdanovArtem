@@ -1,0 +1,17 @@
+#background{
+  position: relative;
+  width: 1800px;;
+  height: 300px;
+  background-color: black;
+}
+
+hr{
+  width: 1700px;
+}
+
+#red_block {
+  position: absolute;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}

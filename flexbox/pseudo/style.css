@@ -1,0 +1,170 @@
+/*Обнуление*/
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+/*--------------------*/
+
+.box{
+  position: relative;
+  margin: 50px auto;
+  background-color: white;
+  max-width: 500px;
+  height: 500px;
+}
+
+.button{
+  position:absolute;
+  width:185px;
+  height:51px;
+
+  top: 100px;
+  margin: auto;
+  left: 0;
+  right: 0;
+
+  background: linear-gradient(108.62deg, #5D5FEF 20.49%, #7879F1 46.52%, #A5A6F6 78.55%, #A5A6F6 78.55%);
+  border-radius: 25.5px;
+
+}
+
+.button2:hover{
+  background-color: #aaa;
+}
+
+.text{
+  position: absolute;
+  margin: 0px auto;
+  width: 85px;
+  height: 29px;
+
+  margin: auto;
+  top: 11px;
+  left: 0;
+  right: 0;
+  text-align: center;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.button2{
+  position:absolute;
+  width:185px;
+  height:51px;
+
+  top: 200px;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+
+  background: #A5A6F6;
+  box-shadow: 0px 4px 4px rgba(111, 111, 111, 0.25);
+  border-radius: 25.5px;
+}
+
+.text2{
+  position: absolute;
+  margin: 0px auto;
+  width: 85px;
+  height: 29px;
+
+  margin: auto;
+  top: 11px;
+  left: 0;
+  right: 0;
+  text-align: center;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.button3{
+  position:absolute;
+  width:185px;
+  height:51px;
+
+  top: 300px;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+
+  background: #5D5FEF;
+  border-radius: 25.5px;
+  box-shadow: 0px 4px 4px rgba(111, 111, 111, 0.25)
+}
+
+/* .button3:active{
+  background-color: #333;
+  color: #eee;
+  box-shadow: 0 0 0 3px lightskyblue;
+} */
+
+
+.text3{
+  position: absolute;
+  margin: 0px auto;
+  width: 85px;
+  height: 29px;
+
+  margin: auto;
+  top: 11px;
+  left: 0;
+  right: 0;
+  text-align: center;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #000000;
+}
